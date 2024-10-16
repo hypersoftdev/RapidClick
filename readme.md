@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/hypersoftdev/RapidClick.svg)](https://jitpack.io/#hypersoftdev/RapidClick)
+
 # RapidClick
 
 **RapidClick** is a Kotlin extension designed to prevent repetitive clicks on Android views by enforcing a minimum delay between click events. This ensures that accidental double-clicking, which can lead to bugs or unintended behavior, is avoided.
@@ -23,7 +25,7 @@ repositories {
 
 ### Step B: Add Dependencies
 
-In your app-level **build.gradle** file, add the library dependency. Use the latest version: 
+In your app-level **build.gradle** file, add the library dependency. Use the latest version: [![](https://jitpack.io/v/hypersoftdev/RapidClick.svg)](https://jitpack.io/#hypersoftdev/RapidClick)
 
 Groovy Version
 ```
