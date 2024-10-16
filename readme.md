@@ -23,15 +23,15 @@ repositories {
 
 ### Step B: Add Dependencies
 
-In your app-level **build.gradle** file, add the library dependency. Use the latest version: [![](https://jitpack.io/v/hypersoftdev/CropView.svg)](https://jitpack.io/#hypersoftdev/CropView)
+In your app-level **build.gradle** file, add the library dependency. Use the latest version: 
 
 Groovy Version
 ```
- implementation 'com.github.hypersoftdev:CropView:x.x.x'
+ implementation 'com.github.hypersoftdev:RapidClick:x.x.x'
 ```
 Kts Version
 ```
- implementation("com.github.hypersoftdev:CropView:x.x.x")
+ implementation("com.github.hypersoftdev:RapidClick:x.x.x")
 ```
 
 ## Usage
@@ -144,7 +144,7 @@ It’s important to balance the use of **RapidClick** with user expectations to 
 
 This work would not have been possible without the invaluable contributions of **Muhammad Saad**. His expertise, dedication, and unwavering support have been instrumental in bringing this project to fruition.
 
-![Profile](https://github.com/hypersoftdev/CropView/blob/master/screenshot/profile_image.jpg?raw=true)
+![Profile](https://github.com/hypersoftdev/RapidClick/blob/master/screens/profile_image.jpg?raw=true)
 
 We are deeply grateful for **Muhammad Saad** involvement and his belief in the importance of this work. His contributions have made a significant impact, and we are honored to have had the opportunity to collaborate with him.
 
