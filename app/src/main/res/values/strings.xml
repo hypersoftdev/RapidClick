@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Rapid Click</string>
+    <string name="btn_short_toast_text">Show Short Toast</string>
+    <string name="btn_long_toast_text">Show Long Toast</string>
+</resources>
